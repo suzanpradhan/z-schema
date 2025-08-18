@@ -1,0 +1,15 @@
+{
+  "name": "z-schema",
+  "private": true,
+  "author": "suzanpradhan",
+  "description": "A redis schema wrapper",
+  "scripts": {
+    "exec": "node main.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "socket.io": "^4.8.1",
+    "zod": "^4.0.17",
+    "redis": "^5.7.0"
+  }
+}
